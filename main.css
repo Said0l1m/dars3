@@ -1,0 +1,127 @@
+body{
+    background-color: black;
+}
+.logo{
+    background-color: white;
+    width: 215px;
+    padding: 40px 0;
+    text-align: center;
+    font-size: 24px;
+}
+.navbar1{
+    background-color: white;
+    width: 215px;
+    padding: 40px 0;
+    text-align: center;
+    font-size: 24px;
+}
+.navbar2{
+    background-color: white;
+    width: 215px;
+    padding: 40px 0;
+    text-align: center;
+    font-size: 24px;
+}
+.navbar3{
+    background-color: white;
+    width: 215px;
+    padding: 40px 0;
+    text-align: center;
+    font-size: 24px;
+}
+.navbar4{
+    background-color: white;
+    width: 215px;
+    padding: 40px 0;
+    text-align: center;
+    font-size: 24px;
+}
+.navbar5{
+    background-color: white;
+    width: 215px;
+    padding: 40px 0;
+    text-align: center;
+    font-size: 24px;
+}
+.head{
+    display: flex;
+    justify-content: space-between;
+    margin: 10px;
+    padding-top: 10px;
+}
+h1{
+    text-align: center;
+    font-size: 32px;
+    color: white;
+}
+.left{
+    background-color: orange;
+    width: 350px;
+    padding: 120px 0;
+    text-align: center;
+    font-size: 32px;
+    color: white;
+    margin-left: 135px ;
+}
+.right{
+    background-color: orange;
+    width: 350px;
+    padding: 120px 0;
+    text-align: center;
+    font-size: 32px;
+    color: white;
+    margin-right: 135px;
+}
+.body{
+    display: flex;
+    justify-content: space-between;
+}
+.logo2{
+    background-color: white;
+    width: 215px;
+    padding: 40px 0;
+    text-align: center;
+    font-size: 24px;
+}
+.foot1{
+    background-color: white;
+    width: 215px;
+    padding: 40px 0;
+    text-align: center;
+    font-size: 24px;
+}
+.foot2{
+    background-color: white;
+    width: 215px;
+    padding: 40px 0;
+    text-align: center;
+    font-size: 24px;
+}
+.foot3{
+    background-color: white;
+    width: 215px;
+    padding: 40px 0;
+    text-align: center;
+    font-size: 24px;
+}
+.foot4{
+    background-color: white;
+    width: 215px;
+    padding: 40px 0;
+    text-align: center;
+    font-size: 24px;
+}
+.foot5{
+    background-color: white;
+    width: 215px;
+    padding: 40px 0;
+    text-align: center;
+    font-size: 24px;
+}
+.foot{
+    display: flex;
+    justify-content: space-between;
+    margin: 10px;
+    padding-top: 10px;
+    margin-top: 50px ;
+}
